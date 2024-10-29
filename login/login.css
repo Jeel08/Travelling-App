@@ -1,0 +1,15 @@
+.loginForm {
+    border-radius: 5px;
+    padding: 20px;
+    width: 50%;
+    border: 2px black solid;
+    background-color: antiquewhite;
+}
+.bold-font {
+    font-weight: bold;
+}
+
+.login {
+    justify-content: center;
+    
+}
